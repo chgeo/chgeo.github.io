@@ -14,9 +14,9 @@ https://chgeo.github.io/show-shortcuts
 
 ## Usage<
 Whenever you use a keyboard shortcut in Eclipse, this small dialog will show up:
-![Shortcut Popup](../images/ShortcutPopup.png)
+![Shortcut Popup](../images/ShortcutPopup.png){:width="50%"}
 
 
 ## Configuration
 By default the plugin is enabled. This is how you configure it:
-![Preferences](../images/ShowShortcut_Preferences.png)
+![Preferences](../images/ShowShortcut_Preferences.png){:width="75%"}
