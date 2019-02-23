@@ -8,6 +8,8 @@ repository: chgeo/chgeo.github.io
 is_project_page: true
 is_user_page: false
 
+github: [metadata]
+
 plugins:
   - jekyll-mentions
   - jekyll-redirect-from
