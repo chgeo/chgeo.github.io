@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".jekyll-metadata": true,
+    "Gemfile*": true
+  },
+  "search.exclude": {
+      "_site": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "chgeo.github.io",
+  "version": "1.0.0",
+  "description": "chgeo Github pages",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --incremental"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chgeo/chgeo.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chgeo/chgeo.github.io/issues"
+  },
+  "homepage": "https://github.com/chgeo/chgeo.github.io#readme"
+}
