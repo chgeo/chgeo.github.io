@@ -3,7 +3,10 @@ description: Learn Eclipse Keyboard Shortcuts
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-architect
-# repository: chgeo/chgeo.github.io
+
+repository: chgeo/chgeo.github.io
+is_project_page: true
+is_user_page: false
 
 plugins:
   - jekyll-mentions
@@ -15,6 +18,3 @@ exclude:
   - package.json
   - readme.md
 
-github:
-  is_project_page: true
-  is_user_page: false
